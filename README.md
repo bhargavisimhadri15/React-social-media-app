@@ -252,7 +252,7 @@ Before proceeding with the installation, ensure you have the following prerequis
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/berkysr/react-social-media-app.git
+  git clone https://github.com/bhargavisimhadri15/react-social-media-app.git
 ```
 
 2. Navigate to the project directory:
