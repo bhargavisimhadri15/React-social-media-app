@@ -361,8 +361,5 @@ Note: Ejecting is a one-way operation and should be done with caution.
 
 ## Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkysr/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/57a226268/)
 
-## License
-
-Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See LICENSE\.md for more information.
