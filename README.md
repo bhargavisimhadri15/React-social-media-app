@@ -345,20 +345,6 @@ If needed, you can eject the configuration with:
 
 Note: Ejecting is a one-way operation and should be done with caution.
 
-## Screenshots
-
-### Mobile Screenshots
-
-<section style="display: flex; height: 433px; padding: 5px;">
-<img alt="Mobile Screenshots" src="/public/assets/github-screenshots/react-social-app-mobile-screenshot.png">
-</section>
-
-### Desktop Screenshot
-
-<section style="display: flex; height: 461px; padding: 5px;">
-<img alt="Desktop Home Page" src="/public/assets/github-screenshots/react-social-app-desktop-home.jpg">
-</section>
-
 ## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/57a226268/)
