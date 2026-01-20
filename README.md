@@ -10,10 +10,6 @@
 
 A React-based social networking application resembling popular platforms. This showcase project demonstrates essential features including user authentication, profile management, a dynamic news feed, a friendship system, and real-time updates. The app is designed with a responsive interface for seamless usage across various devices.
 
-## Demo
-
-Here is a working live demo : https://react-social-media-app-tau.vercel.app/
-
 ## Table of Contents
 
 <ol>
